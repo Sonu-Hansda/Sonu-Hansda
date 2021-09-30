@@ -13,3 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-hansda&show_icons=true&locale=en&layout=compact" alt="sonu-hansda" /></p>
 
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=SonuHansda&theme=gruvbox&show_icons=true)
