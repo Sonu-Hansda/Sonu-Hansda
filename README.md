@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu-hansda&label=Profile%20views&color=0e75b6&style=flat" alt="sonu-hansda" /> </p>
 
-- 🌱 I’m currently learning **Angular , Flutter**
+- 🌱 I’m currently learning **ReactJS , Flutter**
 
-- 💬 Ask me about **Python , Flask , Flutter ,Django**
+- 💬 Ask me about **Python , Flask , Flutter ,Django , ReactJS**
 
 
 <h3 align="left">Languages and Tools:</h3>
