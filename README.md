@@ -26,3 +26,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💡 "In the world of 1s and 0s, I wield my keyboard as a wand, crafting digital realms from dreams."
+
+![GIF](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)
