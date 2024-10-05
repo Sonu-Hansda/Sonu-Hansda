@@ -27,6 +27,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💡 "In the world of 1s and 0s, I wield my keyboard as a wand, crafting digital realms from dreams."
+## 💡 "In the world of computers, I use my keyboard like a magic wand to create digital worlds from my imagination."
 
 ![GIF](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)
