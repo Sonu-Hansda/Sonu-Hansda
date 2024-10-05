@@ -1,6 +1,6 @@
 # Greetings, Earthlings! 👋 I'm Sonu, Your Friendly Neighborhood Code Wizard 🧙‍♂️
 
-"The world 🌎 is open source."
+## "The world 🌎 is open source."
 
 ## 🛠️ Tech Toolkit
 ### Languages
