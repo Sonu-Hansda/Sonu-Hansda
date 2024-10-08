@@ -27,6 +27,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Hansda&theme=react-dark&hide_border=true&area=true) <hr>
 ## 💡 "In the world of computers, I use my keyboard like a magic wand to create digital worlds from my imagination."
 
 ![GIF](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)
