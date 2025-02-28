@@ -1,3 +1,6 @@
+
+![Cover](cover.png)
+
 # Greetings, Earthlings! 👋 I'm Sonu, Your Friendly Neighborhood Code Wizard 🧙‍♂️
 
 ## "The world 🌎 is open source."
