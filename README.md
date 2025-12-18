@@ -54,11 +54,6 @@ Currently exploring: **Cloud Architecture, DevOps, and AI-Driven Applications**
 
 ---
 
-## GitHub Analytics
-![Sonu-Hansda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sonu-Hansda&theme=dark&hide_border=false)
-
----
-
 ## Let's Connect!
 
 I'm always open to discussing tech, collaboration, or just a good coding chat!  
