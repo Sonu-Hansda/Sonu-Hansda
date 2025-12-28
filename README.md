@@ -16,6 +16,7 @@ Currently exploring: **Cloud Architecture, DevOps, and AI-Driven Applications**
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="TypeScript">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/C%20/%20C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++">
 </div>
