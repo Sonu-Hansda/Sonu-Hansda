@@ -1,4 +1,4 @@
-![Cover](cover.png)
+![Cover](cover_latest.png)
 
 # Hi, I'm Sonu Hansda — Full-Stack Developer & Open-Source Enthusiast
 
